@@ -4,10 +4,10 @@ Utilize os arquivos que estão dentro da pasta sql.
 
 Faça a importação na seguinte ordem:
 
-1 - funcao.sql
-2 - funcionario.sql
-3 - veiculo.sql
-4 - rastreamento.sql
+- 1 - funcao.sql
+- 2 - funcionario.sql
+- 3 - veiculo.sql
+- 4 - rastreamento.sql
 
 ## Requisitos
 
