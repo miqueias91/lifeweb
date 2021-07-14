@@ -1,0 +1,63 @@
+body {
+    min-height: 75rem;
+}
+
+#loadingWindow .modal-content {
+    padding: 15px;
+}
+
+#loadingWindow .loading-text {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.bg-dark {
+    background-color: #082F64!important;
+}
+
+h1 {
+	color: #082F64;
+}
+
+.btn-primary {
+    color: #082F64;
+    background-color: transparent;
+    border-color: #082F64;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #082F64;
+    border-color: #082F64;
+}
+
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #082F64;
+    outline: 0;
+    box-shadow: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
